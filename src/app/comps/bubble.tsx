@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-
 const logos = [
   // group 1
   { src: "/logo/react.png", x: "-5vw", y: "15vh", group: 1 },
